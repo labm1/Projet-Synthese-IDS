@@ -3,6 +3,10 @@ This project was developed as part of the university course INF4173 Final Projec
 
 The goal of this project is to realise a prototype of a Intrusion Detection System (IDS) using pre-existing Artificial Intelligence (AI) models, and more precisely machine learning models. The performances of these models are then compared to find which one is the best for intrusion detection.
 
+For the training of the models, the database NSL-KDD is used, which contains data of network traffic, including normal traffic and attacks. There is four types of attacks in this database:  _DoS_, _Probe_, _R2L_ et _U2R_.
+
+To realize the prototype, Python with the sklearn library is used. The models compared are  _Decision Tree_, _Random Forest_, _K-Nearest Neighbors_, _Logistic Regression_, _Naïve Bayes_ and _Support Vector Machines_. After comparison, the best model to predict networks attacks is  _Random Forest_.
+
 Documentation for this project is in french.
 
 # L’utilisation de modèles d’intelligence artificielle pour la détection des intrusions dans les réseaux

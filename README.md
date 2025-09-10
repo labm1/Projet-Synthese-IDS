@@ -1,3 +1,11 @@
+##Usage of Artificial Intelligence models for the detection of intrusions in a network
+This project was developed as part of the university course INF4173 Final Project at UQO in Winter 2025.
+
+The goal of this project is to realise a prototype of a Intrusion Detection System (IDS) using pre-existing Artificial Intelligence (AI) models, and more precisely machine learning models. The performances of these models are then compared to find which one is the best for intrusion detection.
+
+Documentation for this project is in french.
+
+#L’utilisation de modèles d’intelligence artificielle pour la détection des intrusions dans les réseaux
 Le but du projet est de réaliser un prototype de système de détection des intrusions (IDS) avec des modèles préexistants d’Intelligence Artificielle (IA), plus précisément d’apprentissage automatique. L’objectif est de comparer leurs performances pour déterminer le modèle le plus efficace pour la détection d’attaques.
 
 L’intelligence artificielle est une technologie puissante, et a une grande utilité dans le domaine de la cybersécurité, en permettant de reconnaitre une cyberattaque, et l’isoler de son environnement pour ne pas cause de dégâts, ce qui en fait un outil bien adapté pour la détection d’intrusions.
